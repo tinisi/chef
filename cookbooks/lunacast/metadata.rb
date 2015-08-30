@@ -1,0 +1,10 @@
+name             'lunacast'
+maintainer       'Tinisi'
+maintainer_email 'jgrosz@tinisi.com'
+license          'BSD'
+description      'Installs/Configures lunacast'
+long_description 'Installs/Configures lunacast'
+version          '0.1.9'
+
+depends 'application'
+depends 'application_python'
